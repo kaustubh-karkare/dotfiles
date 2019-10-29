@@ -1,0 +1,8 @@
+[user]
+	name = Kaustubh Karkare
+	email = kaustubh.karkare@gmail.com
+[alias]
+	amend = commit --amend --no-edit
+	sl = log --graph --oneline --decorate --all
+	st = status
+	co = checkout
